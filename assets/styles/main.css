@@ -6,6 +6,91 @@
 /* Global
 ----------------------------------------------------------------------------- */
 body {
-    background: #ffffff;
+    
     color: #000000;
+    font-family: sans-serif; 
+    padding: 0px;
+    margin: 0px;
 }
+
+header{
+
+width: 100% ;
+height: 100vh;
+margin : auto;
+text-align: center;
+
+
+}
+
+header section {
+	padding-top:150px;
+    width: 700px;
+    margin: auto;
+    
+}
+ 
+
+
+header h1{ 
+	text-align: center;
+ 	text-transform: uppercase;
+    font-family: 'orkney';
+    font-size: 3.4em ;
+    margin-top: 1px;
+    font-weight: 700;
+ }
+
+main {
+
+
+   
+	width: 500px;
+	
+	margin : auto;
+	padding: 10px;
+
+
+
+}
+
+main section {
+
+ margin-bottom: 100px;
+
+
+
+}
+
+main section h2 {
+
+	text-align: center;
+	
+	text-transform: uppercase;
+
+
+}
+
+main section ul li {
+	list-style-type: none;
+
+
+
+}
+
+
+
+
+footer {
+
+width: 100%;
+background-color : #E8EAEA;
+margin: 0px;
+padding: 10px
+
+
+}
+ footer p {
+text-align: center;
+
+ }
